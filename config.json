@@ -1,0 +1,8 @@
+{
+      "server": "108.61.187.120",
+      "server_port":"12306", 
+      "local_port":1080,
+      "password": "guo",
+      "method": "aes-256-cfb",
+      "timeout": 500
+}

@@ -1,0 +1,8 @@
+
+Install:
+apt-get install python-pip
+pip install shadowsocks
+
+Use:
+ssserver -c config.json
+./start.sh
