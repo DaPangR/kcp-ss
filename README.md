@@ -14,4 +14,4 @@
 1. modify path,ssclient password,kcptun key in start.bat
 2. run "start.bat" file
 
-**tips:we can use gpedit or regedit make it startup**
+*tips:we can use gpedit or regedit make it startup*
