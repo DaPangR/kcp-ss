@@ -1,4 +1,4 @@
-#Linux server
+#Linux Server
 ##Install:
 1. apt-get install python-pip
 2. pip install shadowsocks
@@ -9,7 +9,7 @@
 3. ssserver -c config.json
 4. ./start.sh
 
-#window client
+#Window Client
 #Use:
 1. modify path,ssclient password,kcptun key in start.bat
 2. run "start.bat" file
